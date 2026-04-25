@@ -5,7 +5,6 @@ Autodidacta, me gusta aprender y no veo problema en investiga e implementar nuev
 
 
 
-0 A.D. (Wildfire Games) – Core Contributor
-Contribución al motor Pyrogenesis (C++)
+0 A.D. (Wildfire Games) – Contribución al motor Pyrogenesis (C++)
 
 (issue #8774).
