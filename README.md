@@ -4,6 +4,6 @@ Estudiante de Ingeniería en Sistemas enfocado en **Backend** y **Programación 
 Autodidacta, me gusta aprender y no veo problema en investiga e implementar nuevas tecnologias.
 
 
-
+Actualemten desarrollo en:
 0 A.D. (Wildfire Games) – Contribución al motor Pyrogenesis (C++)
 
