@@ -6,7 +6,7 @@ Soy un aprendiz autodidacta constante, enfocado en la investigación e implement
 
 ## Contribuciones en Open Source (Gitea)
 Actualmente colaboro en el desarrollo del motor de **0 A.D. (Wildfire Games)** – Contribución al motor **Pyrogenesis** (C++)
-*   **Perfil de Contribuidor:** [gitea.wildfiregames.com/vyordan](https://gitea.wildfiregames.com/vyordan) [actividad] (https://gitea.wildfiregames.com/vyordan?tab=activity)
+*   **Perfil de Contribuidor:** [gitea.wildfiregames.com/vyordan](https://gitea.wildfiregames.com/vyordan) | Actividad: https://gitea.wildfiregames.com/vyordan?tab=activity
 *   **Impacto:** Optimización de lógica de carga de recursos y gestión de presupuesto de CPU en tiempo real.
 
 ## Mi Stack Técnico
