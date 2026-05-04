@@ -6,6 +6,3 @@ Autodidacta, me gusta aprender y no veo problema en investiga e implementar nuev
 ## Contribuciones en Open Source (Gitea)
 Actualmente colaboro en el desarrollo del motor de **0 A.D. (Wildfire Games)** – Contribución al motor **Pyrogenesis** (C++)
 *   **Perfil de Contribuidor:** [gitea.wildfiregames.com/vyordan](https://gitea.wildfiregames.com/vyordan)
-
-, un motor de juego masivo escrito en C++.
-
