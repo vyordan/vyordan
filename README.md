@@ -16,7 +16,7 @@ Actualmente colaboro en el desarrollo del motor de **0 A.D. (Wildfire Games)** �
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
 ## Lo que estoy aprendiendo ahora
-*   **LLVM:** Generación de código intermedio (IR) y compilación.
+*   **LLVM:** Generación de código intermedio (IR) y compiladores.
 *   **gRPC:** Comunicación de alto rendimiento entre microservicios.
 *   **Inglés Técnico:** Mejorando la comunicación para colaboración en proyectos globales de manera fluida.
 
