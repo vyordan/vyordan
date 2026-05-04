@@ -5,5 +5,5 @@ Autodidacta, me gusta aprender y no veo problema en investiga e implementar nuev
 
 
 Actualemten desarrollo en:
-0 A.D. (Wildfire Games) – Contribución al motor Pyrogenesis (C++)
+**0 A.D. (Wildfire Games)** – Contribución al motor **Pyrogenesis** (C++)
 
