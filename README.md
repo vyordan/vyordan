@@ -5,7 +5,7 @@ Estudiante de **Ingeniería en Sistemas** (5to semestre) enfocado en **Backend**
 Soy un aprendiz autodidacta constante, enfocado en la investigación e implementación de tecnologías de infraestructura y optimización. 
 
 ## Contribuciones en Open Source (Gitea)
-Actualmente colaboro en el desarrollo del motor de **0 A.D. (Wildfire Games)** – Contribución al motor **Pyrogenesis** (C++)
+Actualmente colaboro en el desarrollo del motor de **[0 A.D.](https://play0ad.com/) (Wildfire Games)** – Contribución al motor **Pyrogenesis** (C++)
 *   **Perfil de Contribuidor:** [gitea.wildfiregames.com/vyordan](https://gitea.wildfiregames.com/vyordan) | Actividad: https://gitea.wildfiregames.com/vyordan?tab=activity
 *   **Impacto:** Optimización de lógica de carga de recursos y gestión de presupuesto de CPU en tiempo real.
 
