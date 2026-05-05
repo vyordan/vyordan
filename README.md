@@ -6,8 +6,11 @@ Soy un aprendiz autodidacta constante, enfocado en la investigación e implement
 
 ## Contribucion en Open Source (Gitea)
 **Contribuidor Activo en  [0 A.D.](https://play0ad.com/) (Wildfire Games)** – Contribución al motor **Pyrogenesis** (C++)
-*   **Perfil de Contribuidor:** [gitea.wildfiregames.com/vyordan](https://gitea.wildfiregames.com/vyordan) | Actividad: https://gitea.wildfiregames.com/vyordan?tab=activity
-*   **Impacto:** Optimización de lógica de carga de recursos y gestión de presupuesto de CPU en tiempo real.
+* Motor Pyrogenesis (C++): Optimización del sistema de carga progresiva de recursos, implementando un presupuesto dinámico de CPU vinculado a la tasa de refresco (VSync).
+* Entorno real: Desarrollo colaborativo internacional, código revisado por seniors, estándares estrictos.
+
+Ver perfil y contribuciones: [gitea.wildfiregames.com/vyordan](https://gitea.wildfiregames.com/vyordan) 
+Actividad: https://gitea.wildfiregames.com/vyordan?tab=activity
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++ (Sistemas), Java (Spring Boot - Backend), SQL.
@@ -19,4 +22,3 @@ Soy un aprendiz autodidacta constante, enfocado en la investigación e implement
 *   **LLVM:** Generación de código intermedio (IR) y compiladores.
 *   **gRPC:** Comunicación de alto rendimiento entre microservicios.
 *   **Inglés Técnico:** Mejorando la comunicación para colaboración en proyectos globales de manera fluida.
-
