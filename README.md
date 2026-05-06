@@ -19,5 +19,5 @@ Ver perfil y contribuciones: https://gitea.wildfiregames.com/vyordan?tab=activit
 
 ## Lo que estoy aprendiendo ahora
 *   **LLVM:** Generación de código intermedio (IR) y compiladores.
-*   **gRPC:** Comunicación de alto rendimiento entre microservicios.
+*   **gRPC:** Comunicación entre microservicios.
 *   **Inglés Técnico:** Mejorando la comunicación para colaboración en proyectos globales de manera fluida.
