@@ -9,8 +9,7 @@ Soy un aprendiz autodidacta constante, enfocado en la investigación e implement
 * Motor Pyrogenesis (C++): Optimización del sistema de carga progresiva de recursos, implementando un presupuesto dinámico de CPU vinculado a la tasa de refresco (VSync).
 * Entorno real: Desarrollo colaborativo internacional, código revisado por seniors, estándares estrictos.
 
-Ver perfil y contribuciones: [gitea.wildfiregames.com/vyordan](https://gitea.wildfiregames.com/vyordan) 
-Actividad: https://gitea.wildfiregames.com/vyordan?tab=activity
+Ver perfil y contribuciones: https://gitea.wildfiregames.com/vyordan?tab=activity
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++ (Sistemas), Java (Spring Boot - Backend), SQL.
