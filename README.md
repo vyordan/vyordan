@@ -13,8 +13,8 @@ Ver perfil y contribuciones: https://gitea.wildfiregames.com/vyordan?tab=activit
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++ (Sistemas), Java (Spring Boot - Backend), SQL.
-*   **Herramientas:** CMake, Git (Control de versiones).
-*   **Infraestructura:** Docker (Contenedores), Linux (Usuario de Arch Linux).
+*   **Herramientas:** CMake, Git.
+*   **Infraestructura:** Docker, Linux (Usuario de Arch Linux).
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
 ## Lo que estoy aprendiendo ahora
