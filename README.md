@@ -2,7 +2,7 @@
 
 Estudiante de **Ingeniería en Sistemas** (5to semestre) enfocado en **Backend** y **Programación de Sistemas**. Me apasiona la eficiencia y el bajo nivel.
 
-Soy un aprendiz autodidacta constante, enfocado en la investigación e implementación de tecnologías de infraestructura y optimización. 
+Soy un aprendiz autodidacta constante, enfocado en la implementación de tecnologías de infraestructura y optimización. 
 
 ## Contribucion en Open Source (Gitea)
 **Contribuidor Activo en  [0 A.D.](https://play0ad.com/) (Wildfire Games)** – Contribución al motor **Pyrogenesis** (C++)
