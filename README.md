@@ -12,8 +12,6 @@ Activo en [0 A.D.](https://play0ad.com/) (Wildfire Games) – Contribución al m
   Refactorización de clases a un namespace dedicado (Script) en más de 200 archivos del motor.
 * Entorno real: Desarrollo colaborativo internacional, código revisado por seniors, estándares altos.
 
-Ver perfil y contribuciones: https://gitea.wildfiregames.com/vyordan?tab=activity
-
 ## Mi Stack Técnico
 *   **Lenguajes:** C++ (Sistemas), Java (Spring Boot - Backend), SQL.
 *   **Herramientas:** CMake, Git.
