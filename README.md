@@ -10,7 +10,7 @@ Activo en [0 A.D.](https://play0ad.com/) (Wildfire Games) – Contribución al m
   Optimización del sistema de carga progresiva de recursos, implementando un presupuesto dinámico de CPU vinculado a la tasa de refresco (VSync).
 * [Refactorización de namespace Script – PR #8917](https://gitea.wildfiregames.com/0ad/0ad/pulls/8917)  
   Refactorización de clases a un `namespace` dedicado (`Script`) en más de 200 archivos del motor.
-* Entorno real: Desarrollo colaborativo internacional, código revisado por seniors, estándares altos.
+* Entorno real: Desarrollo colaborativo internacional, código revisado con estándares altos.
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++ (Sistemas), Java (Spring Boot - Backend), SQL.
