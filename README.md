@@ -13,7 +13,7 @@ Activo en [0 A.D.](https://play0ad.com/) (Wildfire Games) – Contribución al m
 * Entorno real: Desarrollo colaborativo internacional, código revisado con estándares altos.
 
 ## Mi Stack Técnico
-*   **Lenguajes:** C++ (Sistemas), Java (Spring Boot - Backend), SQL.
+*   **Lenguajes:** C++, Java (Spring Boot), SQL.
 *   **Herramientas:** CMake, Git.
 *   **Infraestructura:** Docker, Linux (Usuario de Arch Linux).
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
