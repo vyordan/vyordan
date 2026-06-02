@@ -8,7 +8,7 @@ Soy un aprendiz autodidacta constante, enfocado en la implementación de tecnolo
 Activo en [0 A.D.](https://play0ad.com/) (Wildfire Games) – Contribución al motor **Pyrogenesis** (C++)
 * [Optimización de carga progresiva (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
   Optimización del sistema de carga progresiva de recursos, implementando un presupuesto dinámico de CPU vinculado a la tasa de refresco (VSync).
-* [Refactorización de namespace Script – PR #8917](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
+* [Refactorización de namespace Script – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
   Refactorización de clases a un `namespace` dedicado (`Script`) en más de 200 archivos del motor.
 * Entorno real: Desarrollo colaborativo internacional, código revisado con estándares altos.
 
