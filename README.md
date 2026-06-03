@@ -9,16 +9,16 @@ Activo en [0 A.D.](https://play0ad.com/) (Wildfire Games) – Contribución al m
 * [Optimización de carga progresiva (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
   Optimización del sistema de carga progresiva de recursos, implementando un presupuesto dinámico de CPU vinculado a la tasa de refresco (VSync).
 * [Refactorización de namespace Script – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
-  Refactorización de clases a un `namespace` dedicado (`Script`) en más de 200 archivos del motor.
+  Migración de las clases ScriptEngine, ScriptContext, ScriptInterface, ScriptRequest a un namespace dedicado (Script::Engine, Script::Context, Script::Interface, Script::Request), renombrado de 13 archivos en scriptinterface/, actualización de más de 200 archivos (includes, declaraciones, usos) y resolución de conflictos de fusión con la rama principal.
 * Entorno real: Desarrollo colaborativo internacional, código revisado con estándares altos.
 
 ## Mi Stack Técnico
-*   **Lenguajes:** C++, Java (Spring Boot), SQL.
-*   **Herramientas:** CMake, Git.
+*   **Lenguajes:** C++, Java, SQL.
+*   **Herramientas:** CMake, Spring Boot, Git.
 *   **Infraestructura:** Docker, Linux.
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
 ## Lo que estoy aprendiendo ahora
-*   **LLVM:** Generación de código intermedio (IR) y compiladores.
+*   **LLVM:** Generación de código intermedio (IR) y compiladores [KEM](https://github.com/vyordan/Kem).
 *   **gRPC:** Comunicación entre microservicios.
 *   **Inglés Técnico:** Mejorando la comunicación para colaboración en proyectos globales de manera fluida.
