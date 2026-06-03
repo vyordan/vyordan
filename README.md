@@ -9,7 +9,7 @@ Activo en [0 A.D.](https://play0ad.com/) (Wildfire Games) – Contribución al m
 * [Optimización de carga progresiva (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
   Optimización del sistema de carga progresiva de recursos, implementando un presupuesto dinámico de CPU vinculado a la tasa de refresco (VSync).
 * [Refactorización de namespace Script – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
-  Migración de las clases ScriptEngine, ScriptContext, ScriptInterface, ScriptRequest a un namespace dedicado (Script::Engine, Script::Context, Script::Interface, Script::Request), renombrado de 13 archivos en scriptinterface/, actualización de más de 200 archivos (includes, declaraciones, usos) y resolución de conflictos de fusión con la rama principal.
+  Reorganización masiva del namespace Script – Renombrado de clases y archivos, actualización de +200 archivos del motor y resolución de conflictos de fusión.
 * Entorno real: Desarrollo colaborativo internacional, código revisado con estándares altos.
 
 ## Mi Stack Técnico
