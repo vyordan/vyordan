@@ -4,7 +4,7 @@ Estudiante de **Ingeniería en Sistemas** (5to semestre) enfocado en **Backend**
 
 Soy un aprendiz autodidacta constante, enfocado en la implementación de tecnologías de infraestructura y optimización. 
 
-## Contribuciones Open Source (Gitea)
+## Contribuciones Open Source
 [0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribución al motor **Pyrogenesis** (C++)
 * [Optimización de carga progresiva (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
   Optimización del sistema de carga progresiva de recursos, implementando un presupuesto dinámico de CPU vinculado a la tasa de refresco (VSync).
