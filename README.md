@@ -16,7 +16,7 @@ Soy un aprendiz autodidacta constante, enfocado en la implementación de tecnolo
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++, Java, SQL.
-*   **Herramientas:** CMake/Make, Spring Boot, Git, Repositorios (Gitea, Github).
+*   **Herramientas:** CMake/Make, Git, Spring Boot, Maven, Postman, Repositorios (Gitea, Github), Jenkins (usuario en CI de 0 A.D.).
 *   **Infraestructura:** Docker, Linux/Terminal. 
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
