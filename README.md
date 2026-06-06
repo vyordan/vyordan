@@ -12,7 +12,7 @@ Soy un aprendiz autodidacta constante, enfocado en la implementación de tecnolo
   Reorganización masiva del namespace Script – Renombrado de clases y archivos, actualización de +200 archivos del motor y resolución de conflictos de fusión.
 * **Metodología de Trabajo:** Colaboración internacional bajo estándares estrictos de revisión de código, asegurando la calidad y estabilidad del software.
 
-##[Creditos](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json) Nick: vyordan, Name: Yordan Vasquez
+### [Creditos](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json) Nick: vyordan, Name: Yordan Vasquez
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++, Java, SQL.
