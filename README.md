@@ -21,6 +21,6 @@ Soy un aprendiz autodidacta constante, enfocado en la implementación de tecnolo
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
 ## Lo que estoy aprendiendo ahora
-*   **LLVM:** Generación de código intermedio (IR) y compiladores [KEM](https://github.com/vyordan/Kem).
+*   **LLVM:** Generación de código intermedio (IR) y compiladores [(Proyecto: KEM)](https://github.com/vyordan/Kem).
 *   **gRPC:** Comunicación entre microservicios.
 *   **Inglés Técnico:** Mejorando la comunicación para colaboración en proyectos globales de manera fluida.
