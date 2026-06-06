@@ -17,7 +17,8 @@ Soy un aprendiz autodidacta constante, enfocado en la implementación de tecnolo
 ## Mi Stack Técnico
 *   **Lenguajes:** C++, Java, SQL.
 *   **Herramientas:** CMake/Make, Spring Boot, Git, Repositorios (Gitea, Github).
-*   **Infraestructura:** Docker, Linux/Terminal, Jenkins (Monitoreo de pipelines y diagnóstico de logs).
+*   **Infraestructura:** Docker, Linux/Terminal. Nota: Mi interacción con Jenkins se limita al rol de desarrollador: interpretar logs en el pipeline de CI para diagnosticar y depurar fallos en la compilación del código.
+
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
 ## Lo que estoy aprendiendo ahora
