@@ -1,8 +1,9 @@
 # ¡Hola! Soy Yordan Vásquez
 
-Estudiante de **Ingeniería en Sistemas** (5to semestre) enfocado en **Backend** y **Programación de Sistemas**. Me apasiona la eficiencia y el bajo nivel.
-
-Soy un aprendiz autodidacta constante, enfocado en la implementación de tecnologías de infraestructura y optimización. 
+Estudiante de Ingeniería en Sistemas (5to semestre).
+Me gusta el desarrollo de software eficiente.
+Desarrollo backend y aplicaciones nativas / de sistema.
+Gran parte de lo que sé lo he aprendido con proyectos personales de manera autodidacta.
 
 ## Contribuciones Open Source
 [0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribución al motor **Pyrogenesis** (C++)
@@ -16,11 +17,11 @@ Soy un aprendiz autodidacta constante, enfocado en la implementación de tecnolo
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++, Java, SQL.
-*   **Herramientas:** CMake/Make, Git, Spring Boot, Maven, Postman, Repositorios (Gitea, Github), Jenkins (usuario en CI de 0 A.D.).
+*   **Herramientas:** Git, CMake/Make, Spring Boot, Maven, Postman, Repositorios (Gitea, Github), Jenkins (usuario en CI de 0 A.D.).
 *   **Infraestructura:** Docker, Linux/Terminal. 
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
 ## Lo que estoy aprendiendo ahora
 *   **LLVM:** Generación de código intermedio (IR) y compiladores [(Proyecto: KEM)](https://github.com/vyordan/Kem).
-*   **gRPC:** Comunicación entre microservicios.
+*   **gRPC:** Comunicación eficiente entre microservicios.
 *   **Inglés Técnico:** Mejorando la comunicación para colaboración en proyectos globales de manera fluida.
