@@ -10,7 +10,9 @@ Gran parte de lo que sé lo he aprendido con proyectos personales de manera auto
 * [Optimización de carga progresiva (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
   Optimización del sistema de carga progresiva de recursos, implementando un presupuesto dinámico de CPU vinculado a la tasa de refresco (VSync).
 * [Refactorización de namespace Script – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
-  Reorganización masiva del namespace Script – Renombrado de clases y archivos, actualización de +200 archivos del motor y resolución de conflictos de fusión.
+  Reorganización masiva del `namespace Script` – Renombrado de clases y archivos, actualización de +200 archivos del motor y resolución de conflictos de fusión.
+* [Tipado consistente para turnos – Issue #8718](https://gitea.wildfiregames.com/0ad/0ad/issues/8718) (en progreso)  
+  Unificación del tipo de dato para contadores de turnos: propuesta de `turn_id_t` como alias de `int64_t` siguiendo la guía de tipos signed.
 * **Metodología de Trabajo:** Colaboración internacional bajo estándares estrictos de revisión de código, asegurando la calidad y estabilidad del software.
 
 ### [Creditos](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json#:~:text=%7B%20%22nick%22%3A%20%22vyordan%22%2C%20%22name%22%3A%20%22Yordan%20Vasquez%22%20%7D%2C) Nick: vyordan, Name: Yordan Vasquez
