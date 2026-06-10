@@ -21,7 +21,7 @@ Gran parte de lo que sé lo he aprendido con proyectos personales de manera auto
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++, Java, SQL.
-*   **Herramientas:** Git, CMake/Make, Spring Boot, Maven, Postman, Repositorios (Gitea, Github), Jenkins (usuario en CI de 0 A.D.).
+*   **Herramientas:** Git, CMake - Make/Ninja, Spring Boot, Maven, Postman, Repositorios (Gitea, Github), Jenkins (usuario en CI de 0 A.D.).
 *   **Infraestructura:** Docker, Linux/Terminal. 
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
