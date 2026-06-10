@@ -26,6 +26,6 @@ Gran parte de lo que sé lo he aprendido con proyectos personales de manera auto
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
 ## Lo que estoy aprendiendo ahora
-*   **LLVM:** Generación de código intermedio (IR) y compiladores [(Proyecto: KEM)](https://github.com/vyordan/Kem).
+*   **LLVM:** Generación de código intermedio (IR) y compiladores [(Proyecto: KEM – Un compilador educativo escrito en C++ utilizando la infraestructura de LLVM))](https://github.com/vyordan/Kem).
 *   **gRPC:** Comunicación eficiente entre microservicios.
 *   **Inglés Técnico:** Mejorando la comunicación para colaboración en proyectos globales de manera fluida.
