@@ -1,5 +1,7 @@
 # ¡Hola! Soy Yordan Vásquez
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyordan)
+
 Estudiante de Ingeniería en Sistemas (5to semestre).
 Me gusta el desarrollo de software eficiente.
 Desarrollo backend y aplicaciones nativas / de sistema.
