@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyordan)
 
-Estudiante de Ingeniería en Sistemas (5to semestre).
+Soy un estudiante Guatemalteco deo 20 años de Ingeniería en Sistemas (6to semestre).
 Me gusta el desarrollo de software eficiente.
 Desarrollo backend y aplicaciones nativas / de sistema.
 Gran parte de lo que sé lo he aprendido con proyectos personales de manera autodidacta.
