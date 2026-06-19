@@ -21,11 +21,11 @@ Gran parte de lo que sé lo he aprendido con proyectos personales de manera auto
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++, Java, SQL.
-*   **Herramientas:** Git, CMake - Make/Ninja, Spring Boot, Maven, Postman, Repositorios (Gitea, Github), Jenkins (usuario en CI de 0 A.D.).
-*   **Infraestructura:** Docker, Linux/Terminal. 
+*   **Herramientas:** Git, CMake - Make/Ninja, Spring Boot, Postman, Repositorios (Gitea, Github).
+*   **Infraestructura:** Docker, Linux/Terminal (Arch y Fedora). 
 *   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
 
 ## Lo que estoy aprendiendo ahora
-*   **LLVM:** Generación de código intermedio (IR) y compiladores [(Proyecto: KEM – Un compilador educativo escrito en C++ utilizando la infraestructura de LLVM))](https://github.com/vyordan/Kem).
-*   **gRPC:** Comunicación eficiente entre microservicios.
+*   **LLVM:** Generación de código intermedio (IR) y compiladores [KEM - Compilador JIT](https://github.com/vyordan/Kem).
+*   **gRPC:** Comunicación eficiente entre microservicios [Compresor](https://github.com/vyordan/Compresor) .
 *   **Inglés Técnico:** Mejorando la comunicación para colaboración en proyectos globales de manera fluida.
