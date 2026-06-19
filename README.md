@@ -17,7 +17,7 @@ Gran parte de lo que sé lo he aprendido con proyectos personales de manera auto
   Unificación del tipo de dato para contadores de turnos: propuesta de `turn_id_t` como alias de `int64_t` siguiendo la guía de tipos signed.
 * **Metodología de Trabajo:** Colaboración internacional bajo estándares estrictos de revisión de código, asegurando la calidad y estabilidad del software.
 
-### [Creditos](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json#:~:text=%7B%20%22nick%22%3A%20%22vyordan%22%2C%20%22name%22%3A%20%22Yordan%20Vasquez%22%20%7D%2C) Nick: vyordan, Name: Yordan Vasquez
+### [Creditos](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json#:~:text=%7B%20%22nick%22%3A%20%22vyordan%22%2C%20%22name%22%3A%20%22Yordan%20Vasquez%22%20%7D) Nick: vyordan, Name: Yordan Vasquez
 
 ## Mi Stack Técnico
 *   **Lenguajes:** C++, Java, SQL.
