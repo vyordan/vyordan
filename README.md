@@ -1,31 +1,31 @@
-# ¡Hola! Soy Yordan Vásquez
+# Hello! I'm Yordan Vásquez
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyordan)
 
-Soy un estudiante Guatemalteco deo 20 años de Ingeniería en Sistemas (6to semestre).
-Me gusta el desarrollo de software eficiente.
-Desarrollo backend y aplicaciones nativas / de sistema.
-Gran parte de lo que sé lo he aprendido con proyectos personales de manera autodidacta.
+I'm a 20-year-old Guatemalan student of Systems Engineering (6th semester).  
+I enjoy efficient software development.  
+I focus on native and system-level applications and development.  
+Most of what I know I've learned through personal projects, self-taught.
 
-## Contribuciones Open Source
-[0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribución al motor **Pyrogenesis** (C++)
-* [Optimización de carga progresiva (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
-  Optimización del sistema de carga progresiva de recursos, implementando un presupuesto dinámico de CPU vinculado a la tasa de refresco (VSync).
-* [Refactorización de namespace Script – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
-  Reorganización masiva del `namespace Script` – Renombrado de clases y archivos, actualización de +200 archivos del motor y resolución de conflictos de fusión.
-* [Tipado consistente para turnos – Issue #8718](https://gitea.wildfiregames.com/0ad/0ad/issues/8718) (en progreso)  
-  Unificación del tipo de dato para contadores de turnos: propuesta de `turn_id_t` como alias de `std::int32_t` siguiendo la guía de tipos signed.
-* **Metodología de Trabajo:** Colaboración remota bajo estándares profesionales. Manejo de revisiones iterativas, análisis de logs en Jenkins y verificación de compilación en Linux, macOS, Windows y FreeBSD.
+## Open Source Contributions
+[0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribution to the **Pyrogenesis** engine (C++)
+* [Progressive loading optimization (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
+  Optimized the progressive resource loading system by implementing a dynamic CPU budget linked to the refresh rate (VSync).
+* [Script namespace refactoring – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
+  Massive reorganization of the `Script` namespace – Renamed classes and files, updated over 200 engine files, and resolved merge conflicts.
+* [Consistent typing for turns – Issue #8718](https://gitea.wildfiregames.com/0ad/0ad/issues/8718) (in progress)  
+  Unifying the data type for turn counters: proposal of `turn_id_t` as an alias for `std::int32_t` following the signed type guidelines.
+* **Work Methodology:** Remote collaboration under professional standards. Handling iterative reviews, Jenkins log analysis, and build verification on Linux, macOS, Windows, and FreeBSD.
 
-### [Creditos](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json#:~:text=%7B%20%22nick%22%3A%20%22vyordan%22%2C%20%22name%22%3A%20%22Yordan%20Vasquez%22%20%7D) Nick: vyordan, Name: Yordan Vasquez
+### [Credits](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json#:~:text=%7B%20%22nick%22%3A%20%22vyordan%22%2C%20%22name%22%3A%20%22Yordan%20Vasquez%22%20%7D) Nick: vyordan, Name: Yordan Vasquez
 
-## Mi Stack Técnico
-*   **Lenguajes:** C++, Java, SQL.
-*   **Herramientas:** Git, CMake - Make/Ninja, Spring Boot, Postman, Repositorios (Gitea, Github).
-*   **Infraestructura:** Docker, Linux/Terminal (Arch y Fedora). 
-*   **Áreas de Interés:** Engine Dev, Optimización de Algoritmos, Arquitectura de Software.
+## My Tech Stack
+*   **Languages:** C++, Java, SQL.
+*   **Tools:** Git, CMake - Make/Ninja, Spring Boot, Repositories (Gitea, Github).
+*   **Infrastructure:** Docker, Linux/Terminal (Arch and Fedora).
+*   **CI/CD familiarity:** Reading and interpreting Jenkins logs for multi-platform build verification.
+*   **Areas of Interest:** Engine Dev, Algorithm Optimization, Software Architecture.
 
-## Lo que estoy aprendiendo ahora
-*   **LLVM:** Generación de código intermedio (IR) y compiladores [KEM - Compilador JIT](https://github.com/vyordan/Kem).
-*   **gRPC:** Comunicación eficiente entre microservicios [Compresor](https://github.com/vyordan/Compresor) .
-*   **Inglés Técnico:** Mejorando la comunicación para colaboración en proyectos globales de manera fluida.
+## What I'm currently learning
+*   **LLVM:** Intermediate Representation (IR) and compilers [KEM - JIT Compiler](https://github.com/vyordan/Kem).
+*   **gRPC:** Efficient communication between microservices [Compresor](https://github.com/vyordan/Compresor).
