@@ -8,7 +8,7 @@ I focus on native and system-level applications and development.
 Most of what I know I've learned through personal projects, self-taught.
 
 ## Open Source Contributions
-[0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribution to the **Pyrogenesis** engine (C++)
+### [0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribution to the **Pyrogenesis** engine (C++)
 * [Progressive loading optimization (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
   Optimized the progressive resource loading system by implementing a dynamic CPU budget linked to the refresh rate (VSync).
 * [Script namespace refactoring – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
@@ -17,7 +17,7 @@ Most of what I know I've learned through personal projects, self-taught.
   Unifying the data type for turn counters: proposal of `turn_id_t` as an alias for `std::int32_t` following the signed type guidelines.
 * **Work Methodology:** Remote collaboration under professional standards. Handling iterative reviews, Jenkins log analysis, and build verification on Linux, macOS, Windows, and FreeBSD.
 
-### [Credits](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json#:~:text=%7B%20%22nick%22%3A%20%22vyordan%22%2C%20%22name%22%3A%20%22Yordan%20Vasquez%22%20%7D) Nick: vyordan, Name: Yordan Vasquez
+#### [Credits](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json#:~:text=%7B%20%22nick%22%3A%20%22vyordan%22%2C%20%22name%22%3A%20%22Yordan%20Vasquez%22%20%7D) Nick: vyordan, Name: Yordan Vasquez
 
 ## My Tech Stack
 *   **Languages:** C++, Java, SQL.
