@@ -13,8 +13,7 @@ Most of what I know I've learned through personal projects, self-taught.
   Optimized the progressive resource loading system by implementing a dynamic CPU budget linked to the refresh rate (VSync).
 * [Script namespace refactoring – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
   Massive reorganization of the `Script` namespace – Renamed classes and files, updated over 200 engine files, and resolved merge conflicts.
-* [Consistent typing for turns – Issue #8718](https://gitea.wildfiregames.com/0ad/0ad/issues/8718) (in progress)  
-  Unifying the data type for turn counters: proposal of `turn_id_t` as an alias for `std::int32_t` following the signed type guidelines.
+* [Consistent typing for turns – PR #9017](https://gitea.wildfiregames.com/0ad/0ad/pulls/9017) (PR open) Proposed and implemented `turn_id_t` as an alias for `std::int64_t`, unifying the type used for turn counters across the simulation, network, and replay systems (previously a mix of `int`, `uint32_t`, and `u32`).
 * **Work Methodology:** Remote collaboration under professional standards. Handling iterative reviews, Jenkins log analysis, and build verification on Linux, macOS, Windows, and FreeBSD.
 
 #### [Credits](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json#:~:text=%7B%20%22nick%22%3A%20%22vyordan%22%2C%20%22name%22%3A%20%22Yordan%20Vasquez%22%20%7D) Nick: vyordan, Name: Yordan Vasquez
