@@ -8,6 +8,12 @@ I focus on native and system-level applications and development.
 Most of what I know I've learned through personal projects, self-taught.
 
 ## Open Source Contributions
+### [LLVM Project](https://llvm.org/) – Contribution to **libc++** (C++ Standard Library)
+* [LWG3133 implementation for std::complex and std::valarray – PR #208145](https://github.com/llvm/llvm-project/pull/208145)
+  Implemented the resolution of LWG3133 by adding `operator_hijacker`-based tests to verify that `std::valarray::operator[]` does not rely on a user-overloadable `operator&`. Marked LWG3133 as Complete.
+* [Diagnostic `static_assert`s for LWG3133 named requirements – PR #212360](https://github.com/llvm/llvm-project/pull/212360) (Open)
+  Extends the previous PR by adding granular `static_assert` checks to both `std::complex` and `std::valarray`, verifying that `T` is a cv-unqualified object type satisfying the four named requirements (default_initializable, copy_constructible, copy_assignable, destructible), with dedicated `.verify.cpp` tests. Currently under review.
+
 ### [0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribution to the **Pyrogenesis** engine (C++)
 * [Progressive loading optimization (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
   Optimized the progressive resource loading system by implementing a dynamic CPU budget linked to the refresh rate (VSync).
