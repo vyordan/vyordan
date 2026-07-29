@@ -11,7 +11,7 @@ Most of what I know I've learned through personal projects, self-taught.
 ### [LLVM Project](https://llvm.org/) – Contribution to **libc++** (C++ Standard Library)
 * [LWG3133 implementation for std::complex and std::valarray – PR #208145](https://github.com/llvm/llvm-project/pull/208145)
   Implemented the resolution of LWG3133 by adding `operator_hijacker`-based tests to verify that `std::valarray::operator[]` does not rely on a user-overloadable `operator&`. Marked LWG3133 as Complete.
-* [Diagnostic `static_assert`s for LWG3133 named requirements – PR #212360](https://github.com/llvm/llvm-project/pull/212360) (Open)
+* [Diagnostic `static_assert`s for LWG3133 named requirements – PR #212360](https://github.com/llvm/llvm-project/pull/212360) **(Open)**
   Extends the previous PR by adding granular `static_assert` checks to both `std::complex` and `std::valarray`, verifying that `T` is a cv-unqualified object type satisfying the four named requirements (default_initializable, copy_constructible, copy_assignable, destructible), with dedicated `.verify.cpp` tests. Currently under review.
 
 ### [0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribution to the **Pyrogenesis** engine (C++)
@@ -19,8 +19,8 @@ Most of what I know I've learned through personal projects, self-taught.
   Optimized the progressive resource loading system by implementing a dynamic CPU budget linked to the refresh rate (VSync).
 * [Script namespace refactoring – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
   Massive reorganization of the `Script` namespace – Renamed classes and files, updated over 200 engine files.
-* [Consistent typing for turns – PR #9017](https://gitea.wildfiregames.com/0ad/0ad/pulls/9017)  Proposed and implemented `turn_id_t` as an alias for `std::int32_t`, unifying the type used for turn counters across the simulation, network, and replay systems (previously a mix of `int`, `uint32_t`, and `u32`).
-* [Unified replay folder naming across multiplayer participants – PR #9037](https://gitea.wildfiregames.com/0ad/0ad/pulls/9037) Unified replay folder names across all participants by using the synced `matchID` instead of a local sequence counter, added a synced `startTime` attribute (via `std::chrono`) for the date prefix, and introduced a dedicated subdirectory method to handle rejoins gracefully.
+* [Consistent typing for turns – PR #9017](https://gitea.wildfiregames.com/0ad/0ad/pulls/9017) **(Changes approved, awaiting merge)** Proposed and implemented `turn_id_t` as an alias for `std::int32_t`, unifying the type used for turn counters across the simulation, network, and replay systems (previously a mix of `int`, `uint32_t`, and `u32`).
+* [Unified replay folder naming across multiplayer participants – PR #9037](https://gitea.wildfiregames.com/0ad/0ad/pulls/9037) **(Open)** Unified replay folder names across all participants by using the synced `matchID` instead of a local sequence counter, added a synced `startTime` attribute (via `std::chrono`) for the date prefix, and introduced a dedicated subdirectory method to handle rejoins gracefully.
 
   
 * **Work Methodology:** Remote collaboration under professional standards. Handling iterative reviews, Jenkins log analysis, and build verification on Linux, macOS, Windows, and FreeBSD.
