@@ -23,7 +23,7 @@ Most of what I know I've learned through personal projects, self-taught.
 * [Unified replay folder naming across multiplayer participants – PR #9037](https://gitea.wildfiregames.com/0ad/0ad/pulls/9037) **(Open)** Unified replay folder names across all participants by using the synced `matchID` instead of a local sequence counter, added a synced `startTime` attribute (via `std::chrono`) for the date prefix, and introduced a dedicated subdirectory method to handle rejoins gracefully.
 
   
-* **Work Methodology:** Remote collaboration under professional standards. Handling iterative reviews, Jenkins log analysis, and build verification on Linux, macOS, Windows, and FreeBSD.
+ **Work Methodology:** Remote collaboration under professional standards. Handling iterative reviews, Jenkins log analysis, and build verification on Linux, macOS, Windows, and FreeBSD.
 
 #### [Credits](https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/binaries/data/mods/public/gui/credits/texts/programming.json#:~:text=%7B%20%22nick%22%3A%20%22vyordan%22%2C%20%22name%22%3A%20%22Yordan%20Vasquez%22%20%7D) Nick: vyordan, Name: Yordan Vasquez
 
