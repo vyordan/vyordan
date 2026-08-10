@@ -13,6 +13,9 @@ Most of what I know I've learned through personal projects, self-taught.
   Implemented the resolution of LWG3133 by adding `operator_hijacker`-based tests to verify that `std::valarray::operator[]` does not rely on a user-overloadable `operator&`. Marked LWG3133 as Complete.
 * [Diagnostic `static_assert`s for LWG3133 named requirements – PR #212360](https://github.com/llvm/llvm-project/pull/212360) **(Open)**
   Extends the previous PR by adding granular `static_assert` checks to both `std::complex` and `std::valarray`, verifying that `T` is a cv-unqualified object type satisfying the four named requirements (default_initializable, copy_constructible, copy_assignable, destructible), with dedicated `.verify.cpp` tests. Currently under review.
+  
+* [Fix `std::filesystem::canonical("")` to report an error – PR #215031](https://github.com/llvm/llvm-project/pull/215031)
+  Fixed a bug where `std::filesystem::canonical("")` incorrectly returned the current directory instead of reporting an error as required by the C++ Standard (`[fs.op.canonical]`). Added an empty-path check before absolutizing, updated `weakly_canonical` internal calls to bypass the now-corrected `canonical("")`, and added dedicated tests.
 
 ### [0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribution to the **Pyrogenesis** engine (C++)
 * [Progressive loading optimization (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
