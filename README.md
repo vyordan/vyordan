@@ -23,8 +23,6 @@ Most of what I know I've learned through personal projects, self-taught.
 * [Script namespace refactoring – PR #8948](https://gitea.wildfiregames.com/0ad/0ad/pulls/8948)  
   Massive reorganization of the `Script` namespace – Renamed classes and files, updated over 200 engine files.
 * [Consistent typing for turns – PR #9017](https://gitea.wildfiregames.com/0ad/0ad/pulls/9017)  Proposed and implemented `turn_id_t` as an alias for `std::int32_t`, unifying the type used for turn counters across the simulation, network, and replay systems (previously a mix of `int`, `uint32_t`, and `u32`).
-* [Unified replay folder naming across multiplayer participants – PR #9037](https://gitea.wildfiregames.com/0ad/0ad/pulls/9037) **(Open)** Unified replay folder names across all participants by using the synced `matchID` instead of a local sequence counter, added a synced `startTime` attribute (via `std::chrono`) for the date prefix, and introduced a dedicated subdirectory method to handle rejoins gracefully.
-
   
  **Work Methodology:** Remote collaboration under professional standards. Handling iterative reviews, Jenkins log analysis, and build verification on Linux, macOS, Windows, and FreeBSD.
 
