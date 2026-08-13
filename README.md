@@ -2,10 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyordan)
 
-I'm a 20-year-old Guatemalan student of Systems Engineering (6th semester).  
-I enjoy efficient software development.  
-I focus on native and system-level applications and development.  
-Most of what I know I've learned through personal projects, self-taught.
+Junior Systems Developer | 20-year-old Guatemalan student of Systems Engineering (6th semester).
+I like efficient software development, particularly native and system-level applications. Most of what I know comes from self-teaching and personal projects.
 
 ## Open Source Contributions
 ### [LLVM Project](https://llvm.org/) – Contribution to **libc++** (C++ Standard Library)
