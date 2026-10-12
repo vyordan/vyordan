@@ -10,10 +10,11 @@ I like efficient software development, particularly native and system-level appl
 * [LWG3133 implementation for std::complex and std::valarray – PR #208145](https://github.com/llvm/llvm-project/pull/208145)
   Implemented the resolution of LWG3133 by adding `operator_hijacker`-based tests to verify that `std::valarray::operator[]` does not rely on a user-overloadable `operator&`. Marked LWG3133 as Complete.
 * [Diagnostic `static_assert`s for LWG3133 named requirements – PR #212360](https://github.com/llvm/llvm-project/pull/212360)
-  Extends the previous PR by adding granular `static_assert` checks to both `std::complex` and `std::valarray`, verifying that `T` is a cv-unqualified object type satisfying the four named requirements (default_initializable, copy_constructible, copy_assignable, destructible), with dedicated `.verify.cpp` tests. Currently under review.
-  
+  Extends the previous PR by adding granular `static_assert` checks to both `std::complex` and `std::valarray`, verifying that `T` is a cv-unqualified object type satisfying the four named requirements (default_initializable, copy_constructible, copy_assignable, destructible), with dedicated `.verify.cpp` tests. Currently under review.  
 * [Fix `std::filesystem::canonical("")` to report an error – PR #215031](https://github.com/llvm/llvm-project/pull/215031) **(Open)**
   Fixed a bug where `std::filesystem::canonical("")` incorrectly returned the current directory instead of reporting an error as required by the C++ Standard (`[fs.op.canonical]`). Added an empty-path check before absolutizing, updated `weakly_canonical` internal calls to bypass the now-corrected `canonical("")`, and added dedicated tests.
+* [Fix undefined behavior in `std::negative_binomial_distribution` test – PR #231310](https://github.com/llvm/llvm-project/pull/231310) **(Open)**
+  Changed `p = 1` to `p = 0.9` to avoid UB, increased the sample size to `1,000,000`, replaced exact equality assertions for mean and variance with relative-tolerance comparisons, and enabled the previously commented-out skewness and kurtosis checks.
 
 ### [0 A.D. Empires Ascendant](https://play0ad.com/) [(Wildfire Games)](https://wildfiregames.com/) – Contribution to the **Pyrogenesis** engine (C++)
 * [Progressive loading optimization (VSync) – PR #8898](https://gitea.wildfiregames.com/0ad/0ad/pulls/8898)  
